@@ -1,3 +1,4 @@
+CMU 15-445: Database Systems, CMU db 专门为此课开发了一个教学用的关系型数据库 bustub，并要求你对这个数据库的组成部分进行修改，实现上述部件的功能。bustub 作为一个 C++ 编写的中小型项目涵盖了程序构建、代码规范、单元测试等众多要求，是非常一个优秀的开源项目。
 <img src="logo/bustub-whiteborder.svg" alt="BusTub Logo" height="200">
 
 -----------------
